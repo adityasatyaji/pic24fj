@@ -1,2 +1,4 @@
-# ti-msp430-8-8-matrix-
-8*8 matrix driver code 
+pic24fj128ga010 
+gpio  input output
+timer
+uarts
